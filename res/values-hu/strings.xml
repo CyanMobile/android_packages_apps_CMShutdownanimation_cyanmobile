@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="app_name">CyanogenMod shutdownanimáció-kezelő</string>
+    <string name="move_ui">A shutdownanimáció-cseréje sikeresen lezajlott.</string>
+    <string name="remove_ui">Alapértelmezett shutdownanimáció visszaállítása.</string>
+</resources>

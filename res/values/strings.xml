@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="app_name">CyanMobile shutdownanimation helper</string>
+    <string name="move_ui">CyanMobile Sucessfully moved file to shutdownanimation.</string>
+    <string name="remove_ui">Reset shutdownanimation back to default.</string>
+</resources>
